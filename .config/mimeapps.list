@@ -1,0 +1,13 @@
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-RYWJ42.desktop
+message/rfc822=userapp-Thunderbird-RYWJ42.desktop
+x-scheme-handler/mid=userapp-Thunderbird-RYWJ42.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-RYWJ42.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-RYWJ42.desktop;

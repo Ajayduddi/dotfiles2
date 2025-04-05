@@ -1,0 +1,302 @@
+[Characters]
+recent-characters=['⌊', '׆', '׀', '⤷']
+
+[Connections]
+first-run=false
+
+[Contacts]
+did-initial-setup=true
+window-fullscreen=false
+window-height=914
+window-maximized=false
+window-width=851
+
+[GWeather4]
+temperature-unit='centigrade'
+
+[Ptyxis]
+cursor-shape='ibeam'
+default-profile-uuid='7ffc1d72c0fa8021cdb3005267eed1a3'
+font-name='JetBrainsMono Nerd Font Light 10'
+profile-uuids=['7ffc1d72c0fa8021cdb3005267eed1a3']
+use-system-font=false
+window-size=(uint32 104, uint32 42)
+
+[Ptyxis/Profiles/7ffc1d72c0fa8021cdb3005267eed1a3]
+bold-is-bright=false
+palette='Breeze'
+
+[Ptyxis/Shortcuts]
+close-tab='<Alt>w'
+copy-clipboard='<Control>c'
+new-tab='<Control>t'
+new-window='<Control>n'
+paste-clipboard='<Control>v'
+search='<Control><Alt>s'
+select-all='<Control>a'
+undo-close-tab='<Shift><Control>t'
+
+[Weather]
+locations=[<(uint32 2, <('Hyderabad', 'VOHY', true, [(0.30455995447301049, 1.3695016922159813)], [(0.30325580954933529, 1.3696374264719091)])>)>]
+window-height=914
+window-maximized=false
+window-width=851
+
+[baobab/ui]
+is-maximized=false
+window-size=(906, 914)
+
+[boxes]
+first-run=false
+view='icon-view'
+window-maximized=true
+
+[calendar]
+active-view='month'
+window-maximized=true
+window-size=(768, 600)
+
+[clocks/state/window]
+maximized=false
+panel-id='timer'
+size=(851, 914)
+
+[control-center]
+last-panel='online-accounts'
+window-state=(851, 914, false)
+
+[desktop/app-folders]
+folder-children=['Utilities', 'YaST', 'Pardus']
+
+[desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[desktop/app-folders/folders/Utilities]
+apps=['org.freedesktop.GnomeAbrt.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Connections.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Loupe.desktop', 'org.freedesktop.MalcontentControl.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop']
+categories=['X-GNOME-Utilities']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[desktop/background]
+picture-options='zoom'
+picture-uri='file:///home/ajay/.config/background'
+picture-uri-dark='file:///home/ajay/.config/background'
+
+[desktop/calendar]
+show-weekdate=false
+
+[desktop/datetime]
+automatic-timezone=true
+
+[desktop/input-sources]
+sources=[('xkb', 'us')]
+
+[desktop/interface]
+clock-show-date=false
+clock-show-seconds=false
+clock-show-weekday=false
+color-scheme='prefer-dark'
+enable-hot-corners=false
+font-hinting='medium'
+text-scaling-factor=1.05
+
+[desktop/notifications]
+application-children=['ulauncher', 'org-gnome-software', 'gnome-power-panel', 'org-mozilla-firefox']
+
+[desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+
+[desktop/notifications/application/org-mozilla-firefox]
+application-id='org.mozilla.firefox.desktop'
+
+[desktop/notifications/application/ulauncher]
+application-id='ulauncher.desktop'
+
+[desktop/wm/keybindings]
+maximize=@as []
+unmaximize=@as []
+
+[desktop/wm/preferences]
+button-layout='appmenu:minimize,maximize,close'
+
+[evince/default]
+continuous=true
+dual-page=false
+dual-page-odd-left=false
+enable-spellchecking=true
+fullscreen=false
+inverted-colors=false
+show-sidebar=true
+sidebar-page='thumbnails'
+sidebar-size=132
+sizing-mode='automatic'
+
+[evolution-data-server]
+migrated=true
+
+[evolution]
+default-address-book='955eae42ec8971e66b8f4c3e318c58142edbd997'
+default-calendar='4f5fe694d342abcc38c597ccebd1c4b16af991ee'
+
+[gnome-system-monitor]
+current-tab='resources'
+maximized=false
+show-dependencies=false
+show-whose-processes='user'
+window-height=914
+window-width=851
+
+[gnome-system-monitor/proctree]
+col-26-visible=false
+col-26-width=0
+
+[login-screen]
+enable-fingerprint-authentication=true
+enable-smartcard-authentication=false
+
+[mutter]
+edge-tiling=false
+
+[mutter/keybindings]
+toggle-tiled-left=@as []
+toggle-tiled-right=@as []
+
+[nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+search-filter-time-type='last_modified'
+
+[nautilus/window-state]
+initial-size=(851, 914)
+initial-size-file-chooser=(890, 550)
+maximized=true
+
+[portal/filechooser/com.google.Chrome]
+last-folder-path='/home/ajay/Downloads'
+
+[portal/filechooser/com.visualstudio.code]
+last-folder-path='/home/ajay/.dotfiles'
+
+[settings-daemon/plugins/media-keys]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/']
+
+[settings-daemon/plugins/media-keys/custom-keybindings/custom0]
+binding='<Control>space'
+command='ulauncher-toggle'
+name='ulauncher-toggle'
+
+[settings-daemon/plugins/power]
+power-button-action='nothing'
+
+[shell]
+app-picker-layout=[{'Utilities': <{'position': <0>}>, 'org.gnome.Boxes.desktop': <{'position': <1>}>, 'org.gnome.Calculator.desktop': <{'position': <2>}>, 'org.gnome.Calendar.desktop': <{'position': <3>}>, 'org.gnome.Snapshot.desktop': <{'position': <4>}>, 'org.gnome.clocks.desktop': <{'position': <5>}>, 'org.gnome.Contacts.desktop': <{'position': <6>}>, 'simple-scan.desktop': <{'position': <7>}>, 'com.mattjakeman.ExtensionManager.desktop': <{'position': <8>}>, 'org.fedoraproject.MediaWriter.desktop': <{'position': <9>}>, 'yelp.desktop': <{'position': <10>}>, 'libreoffice-calc.desktop': <{'position': <11>}>, 'libreoffice-impress.desktop': <{'position': <12>}>, 'libreoffice-writer.desktop': <{'position': <13>}>, 'org.gnome.Maps.desktop': <{'position': <14>}>, 'org.gnome.Rhythmbox3.desktop': <{'position': <15>}>, 'org.gnome.Settings.desktop': <{'position': <16>}>, 'org.gnome.SystemMonitor.desktop': <{'position': <17>}>, 'org.gnome.TextEditor.desktop': <{'position': <18>}>, 'net.thunderbird.Thunderbird.desktop': <{'position': <19>}>, 'org.gnome.Tour.desktop': <{'position': <20>}>, 'ulauncher.desktop': <{'position': <21>}>, 'org.gnome.Totem.desktop': <{'position': <22>}>, 'org.gnome.Weather.desktop': <{'position': <23>}>}]
+disabled-extensions=@as []
+enabled-extensions=['background-logo@fedorahosted.org', 'caffeine@patapon.info', 'clipboard-indicator@tudmotu.com', 'dash-to-panel@jderose9.github.com', 'tilingshell@ferrarodomenico.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'vertical-workspaces@G-dH.github.com', 'status-icons@gnome-shell-extensions.gcampax.github.com']
+favorite-apps=['org.mozilla.firefox.desktop', 'google-chrome.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'org.gnome.Ptyxis.desktop', 'com.visualstudio.code.desktop']
+last-selected-power-profile='power-saver'
+welcome-dialog-last-shown-version='47.5'
+
+[shell/extensions/caffeine]
+indicator-position-max=1
+
+[shell/extensions/clipboard-indicator]
+cache-only-favorites=true
+move-item-first=true
+pinned-on-bottom=false
+
+[shell/extensions/dash-to-panel]
+animate-appicon-hover=true
+animate-appicon-hover-animation-extent={'RIPPLE': 4, 'PLANK': 4, 'SIMPLE': 1}
+appicon-margin=4
+appicon-padding=4
+appicon-style='NORMAL'
+context-menu-entries='[{"title":"Terminal","cmd":"TERMINALSETTINGS"},{"title":"System monitor","cmd":"gnome-system-monitor"},{"title":"Files","cmd":"nautilus"},{"title":"Extensions","cmd":"gnome-extensions-app"}]'
+dot-position='BOTTOM'
+dot-style-focused='DASHES'
+dot-style-unfocused='DOTS'
+extension-version=68
+global-border-radius=0
+group-apps=true
+hot-keys=true
+hotkeys-overlay-combo='TEMPORARILY'
+intellihide=false
+panel-anchors='{"AUO-0x00000000":"MIDDLE"}'
+panel-element-positions='{"AUO-0x00000000":[{"element":"activitiesButton","visible":true,"position":"stackedTL"},{"element":"dateMenu","visible":true,"position":"stackedTL"},{"element":"leftBox","visible":true,"position":"stackedTL"},{"element":"showAppsButton","visible":true,"position":"stackedBR"},{"element":"taskbar","visible":true,"position":"centerMonitor"},{"element":"centerBox","visible":true,"position":"stackedBR"},{"element":"rightBox","visible":true,"position":"stackedBR"},{"element":"systemMenu","visible":true,"position":"stackedBR"},{"element":"desktopButton","visible":true,"position":"stackedBR"}]}'
+panel-lengths='{}'
+panel-positions='{"AUO-0x00000000":"BOTTOM"}'
+panel-side-margins=0
+panel-side-padding=0
+panel-sizes='{"AUO-0x00000000":43}'
+panel-top-bottom-margins=0
+prefs-opened=false
+primary-monitor='AUO-0x00000000'
+progress-show-count=true
+show-favorites=true
+show-favorites-all-monitors=true
+show-running-apps=true
+show-window-previews-timeout=100
+stockgs-keep-dash=false
+stockgs-keep-top-panel=false
+stockgs-panelbtn-click-only=false
+taskbar-locked=true
+trans-use-custom-bg=false
+trans-use-custom-opacity=false
+tray-size=0
+window-preview-animation-time=100
+window-preview-title-position='TOP'
+
+[shell/extensions/tilingshell]
+enable-autotiling=true
+enable-smart-window-border-radius=true
+enable-window-border=false
+inner-gaps=uint32 3
+last-version-name-installed='16.3'
+layouts-json='[{"id":"Layout 1","tiles":[{"x":0,"y":0,"width":0.22,"height":0.5,"groups":[1,2]},{"x":0,"y":0.5,"width":0.22,"height":0.5,"groups":[1,2]},{"x":0.22,"y":0,"width":0.56,"height":1,"groups":[2,3]},{"x":0.78,"y":0,"width":0.22,"height":0.5,"groups":[3,4]},{"x":0.78,"y":0.5,"width":0.22,"height":0.5,"groups":[3,4]}]},{"id":"Layout 2","tiles":[{"x":0,"y":0,"width":0.22,"height":1,"groups":[1]},{"x":0.22,"y":0,"width":0.56,"height":1,"groups":[1,2]},{"x":0.78,"y":0,"width":0.22,"height":1,"groups":[2]}]},{"id":"Layout 3","tiles":[{"x":0,"y":0,"width":0.33,"height":1,"groups":[1]},{"x":0.33,"y":0,"width":0.67,"height":1,"groups":[1]}]},{"id":"Layout 4","tiles":[{"x":0,"y":0,"width":0.67,"height":1,"groups":[1]},{"x":0.67,"y":0,"width":0.33,"height":1,"groups":[1]}]},{"id":"5033547","tiles":[{"x":0,"y":0,"width":0.5,"height":1,"groups":[1]},{"x":0.5,"y":0,"width":0.5000000000000016,"height":1,"groups":[1]}]},{"id":"5103643","tiles":[{"x":0,"y":0,"width":0.5,"height":1,"groups":[1]},{"x":0.5,"y":0,"width":0.5000000000000016,"height":0.5,"groups":[2,1]},{"x":0.5,"y":0.5,"width":0.5000000000000016,"height":0.5,"groups":[2,1]}]}]'
+outer-gaps=uint32 3
+overridden-settings="{\"org.gnome.mutter.keybindings\":{\"toggle-tiled-right\":\"['<Super>Right']\",\"toggle-tiled-left\":\"['<Super>Left']\"},\"org.gnome.desktop.wm.keybindings\":{\"maximize\":\"['<Super>Up']\",\"unmaximize\":\"['<Super>Down', '<Alt>F5']\"},\"org.gnome.mutter\":{\"edge-tiling\":\"true\"}}"
+selected-layouts=[['5033547'], ['5033547']]
+top-edge-maximize=false
+window-border-width=uint32 1
+
+[shell/extensions/vertical-workspaces]
+app-grid-folder-center=true
+app-grid-folder-icon-grid=2
+app-grid-icon-size=64
+app-grid-order=1
+app-grid-page-width-scale=86
+app-grid-performance=true
+dash-max-icon-size=0
+overview-bg-brightness=30
+search-icon-size=48
+sec-wst-position-adjust=0
+show-wst-labels-on-hover=false
+win-title-position=2
+ws-sw-popup-h-position=46
+
+[shell/weather]
+automatic-location=true
+locations=[<(uint32 2, <('Hyderabad', 'VOHY', true, [(0.30455995447301049, 1.3695016922159813)], [(0.30325580954933529, 1.3696374264719091)])>)>]
+
+[shell/world-clocks]
+locations=@av []
+
+[software]
+check-timestamp=int64 1743855933
+first-run=false
+flatpak-purge-timestamp=int64 1743826881
+install-timestamp=int64 1743601414
+packagekit-historical-updates-timestamp=uint64 1743855983
+update-notification-timestamp=int64 1743705320
+
+[tweaks]
+show-extensions-notice=false

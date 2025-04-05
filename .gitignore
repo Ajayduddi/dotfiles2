@@ -1,0 +1,31 @@
+.config/google-chrome
+.config/Code
+.config/chromium/
+.config/google-chrome/
+.config/firefox/
+.config/ssh/
+.config/gpg/
+.config/secrets/
+
+.local/share/chromium/
+.local/share/google-chrome/
+.local/share/firefox/
+.local/share/secrets/
+.local/share/keyrings/
+
+# Ignore any private or sensitive app folders you do not want to track
+.local/share/slack/
+.local/share/discord/
+.local/share/rclone/
+
+# Ignore application specific files that store secrets or private data
+.local/share/auth/
+.local/share/login/
+
+# Ignore directories with tokens or password files
+.local/share/credentials/
+.local/share/tokens/
+.local/share/authentication/
+
+# Additional ignores based on your system setup
+.private_config/
